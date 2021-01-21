@@ -1,5 +1,4 @@
-Pong made in Unity:
-Simple pong game made in Unity
+Simple Pong game made in Unity:
 
 
 	Quick Launch:
