@@ -1,13 +1,16 @@
-Pong made in Unity
-Quick Launch:
-	## Once inside the pong folder, enter the Run folder. 
-	## Double click the pong.exe file and it will run.
-	## Check "windowed" in the "pong configuration" menu. It will be easier to
-	   close the program
-	## Use the up and down arrows to move the paddle on the right. Use the 'a' and 's' to move the left paddle. 
-	## Right now functionality is limited to one point is a win. In order to replay, you must press ESC and click on the .exe file again
-	Compiling the code:
+Pong made in Unity:
+Simple pong game made in Unity
 
+
+	Quick Launch:
+	1) Once inside the pong folder, enter the Run folder. 
+	2) Double click the pong.exe file and it will run.
+	3) Check "windowed" in the "pong configuration" menu. It will be easier to
+	   close the program
+	4) Use the up and down arrows to move the paddle on the right. Use the 'a' and 's' to move the left paddle. 
+        5) Right now functionality is limited to one point is a win. In order to replay, you must press ESC and click on the .exe file again
+	
+	Compiling the code:
 	Updating the code will require a new build. If you do not already have unity installed see the
 	instructions below.
 	1) Download the .zip file from BBLearn.
